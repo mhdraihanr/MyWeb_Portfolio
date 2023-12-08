@@ -329,6 +329,8 @@ flex-basis: 60%;
     display: inline-block;
     background: #00FFFF;
     margin-bottom: 100px;
+    cursor: pointer;
+
 }
 .contact-right form{
     width: 100%;
